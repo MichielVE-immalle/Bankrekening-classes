@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankrekening", "Bankrekening\Bankrekening.csproj", "{4594BC67-3E8F-4F4A-BBFD-A77B24FE1D4F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B3F1951C-66D4-48A5-B3E4-9C382D7375E6}"
+	ProjectSection(SolutionItems) = preProject
+		Test.txt = Test.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
